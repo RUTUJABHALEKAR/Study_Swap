@@ -8,9 +8,9 @@ StudySwap is a web-based platform designed to facilitate the exchange of study m
 💬 User-Friendly Interface: A clean and intuitive design for seamless navigation and interaction.  
 💾 Data Management: Robust backend powered by MySQL for secure and efficient handling of data.
 # Tech Stack
-**Frontend ** 
+**Frontend **   
 HTML: Structure and layout of the web application.  
 CSS: Styling for an engaging and responsive user interface.   
 JavaScript: Adds interactivity to enhance the user experience.   
-**Backend  ** 
+**Backend  **   
 MySQL: Database for managing user listings, material details, and transaction history.
